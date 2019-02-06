@@ -12,9 +12,7 @@ RUN apk --no-cache add tar curl && \
 
 EXPOSE 5005
 
-RUN chmod -R 777 /app
-
-USER node
+USER root
 
 HEALTHCHECK --interval=1m --timeout=2s \
   CMD curl -LSs http://localhost:5005 || exit 1
