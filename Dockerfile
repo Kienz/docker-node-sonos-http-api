@@ -12,6 +12,8 @@ RUN apk --no-cache add tar curl && \
 
 EXPOSE 5005
 
+RUN sudo chmod -R 777 /app
+
 USER node
 
 HEALTHCHECK --interval=1m --timeout=2s \
