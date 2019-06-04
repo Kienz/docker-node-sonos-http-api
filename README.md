@@ -9,5 +9,3 @@ Docker wrapper for https://github.com/Kienz/node-sonos-http-api
 [![Docker Pulls](https://img.shields.io/docker/pulls/kienz/docker-node-sonos-http-api.svg)](https://hub.docker.com/r/kienz/docker-node-sonos-http-api)
 [![Docker Automated buil](https://img.shields.io/docker/automated/kienz/docker-node-sonos-http-api.svg)](https://hub.docker.com/r/kienz/docker-node-sonos-http-api)
 [![Docker Build Statu](https://img.shields.io/docker/build/kienz/docker-node-sonos-http-api.svg)](https://hub.docker.com/r/kienz/docker-node-sonos-http-api)
-[![ImageLayers Size](https://img.shields.io/imagelayers/image-size/kienz/docker-node-sonos-http-api/latest.svg)](https://hub.docker.com/r/kienz/docker-node-sonos-http-api)
-[![ImageLayers Layers](https://img.shields.io/imagelayers/layers/kienz/docker-node-sonos-http-api/latest.svg)](https://hub.docker.com/r/kienz/docker-node-sonos-http-api)
